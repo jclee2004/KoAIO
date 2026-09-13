@@ -1,4 +1,4 @@
-# AIO Activation Dataset — README
+# AIO Activation Dataset Activation
 
 한국어 검색 검색어에 대한 AI 검색 요약 활성화 여부와 4축 라벨(형태·의도·주제·확신도)을 담은 데이터셋입니다.
 
