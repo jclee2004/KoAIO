@@ -1,4 +1,4 @@
-﻿데이터 출처,AIO_Benchmark 하위출처,검색어,지식인_doc_id,지식인_url,검색엔진,AI 검색 요약 결과,문법적 형태,검색 의도,주제,LLM 확신도
+﻿데이터 출처,AIO_Benchmark 하위출처,검색어,지식인_doc_id,지식인_url,검색엔진,AI 검색 요약 활성화 여부,문법적 형태,검색 의도,주제,LLM 확신도
 ORCAS,,"""롤스 로이스""",,,google,FALSE,명사구,상업형,자동차,high
 ORCAS,,"""롤스 로이스""",,,naver,FALSE,명사구,상업형,자동차,high
 ORCAS,,#else if,,,google,TRUE,명사구,정보형,기술,medium
