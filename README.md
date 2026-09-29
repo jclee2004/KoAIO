@@ -1,9 +1,9 @@
 # Korean AI Overview activation dataset — README
 
 [![DOI](https://zenodo.org/badge/1355779092.svg)](https://doi.org/10.5281/zenodo.22979384)
+https://huggingface.co/datasets/jcl2/KoAIO
 
-
-한국어 검색어에 대한 AI 검색 요약 활성화 여부와 활성화 요인 3개의 라벨(문법적 형태, 검색 의도, 주제)과 LLM의 해당 라벨 판정 확신도를 담은 데이터셋입니다.
+"대규모 한국어 검색어 데이터셋 KoAIO 구축을 통한 AI 검색 요약 활성화 경향 분석"에서 공개한 한국어 검색어에 대한 AI 검색 요약 활성화 여부와 활성화 요인 3개의 라벨(문법적 형태, 검색 의도, 주제)과 LLM의 해당 라벨 판정 확신도를 담은 데이터셋입니다.
 
 ## 파일
 
